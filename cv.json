@@ -1,8 +1,8 @@
 {
   "basics": {
-    "name": "Rodrigo Sabino Ramirez",
+    "name": "Rodrigo Alexander Sabino Ramirez",
     "label": "",
-    "image": "",
+    "image": "/me.webp",
     "email": "rodrigosabinoramirez@gmail.com",
     "phone": "+51 981273313",
     "url": "https://",
@@ -10,36 +10,31 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
+      "city": "Callao",
       "countryCode": "",
-      "region": ""
+      "region": "Callao"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "",
-        "url": "https://linkedin.com/in/"
-      },
-      {
-        "network": "X",
-        "username": "",
-        "url": "https://x.com/"
+        "url": "https://www.linkedin.com/in/rodsabino"
       },
       {
         "network": "GitHub",
         "username": "",
-        "url": "https://github.com/"
+        "url": "https://github.com/RodriSabino"
       }
     ]
   },
   "work": [
     {
-      "name": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": null,
-      "summary": "",
+      "name": "Visma",
+      "position": "QA Trainee",
+      "url": "https://latam.visma.com/es-pe/",
+      "startDate": "2024-01-02",
+      "endDate": "2024-01-02",
+      "summary": "Como QA Trainee en Visma, asumí la responsabilidad de diseñar casos de prueba, tanto manuales como automatizados, para certificar las funcionalidades de las aplicaciones. Estimé el tiempo necesario para la creación y ejecución de estos casos, garantizando un plan de trabajo preliminar efectivo. Ejecuté pruebas manuales y utilicé herramientas como Postman y Selenium para la automatización, cumpliendo con los plazos acordados y los compromisos con otras áreas. Esta experiencia me proporcionó una sólida comprensión de los procesos de aseguramiento de la calidad y una habilidad práctica en la ejecución de pruebas tanto manuales como automatizadas. ",
       "highlights": [
         ""
       ]
@@ -61,18 +56,12 @@
     "url": "https://pregrado.upc.edu.pe/facultad-de-ingenieria/ingenieria-de-software/",
     "area": "Software Engineer",
     "studyType": "Bachelor",
-    "startDate": "",
-    "endDate": "",
+    "startDate": "2020-08-17",
+    "endDate": null,
     "score": "",
     "courses": [
       ""
     ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
   }],
   "certificates": [{
     "name": "Certificate",
