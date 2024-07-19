@@ -1,2 +1,2 @@
 # portafolio_app
- React js app
+ Astro app
