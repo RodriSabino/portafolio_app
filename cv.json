@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Rodrigo Alexander Sabino Ramirez",
-    "label": "",
+    "label": "Software Engineering Student | Full-Stack Developer | QA Specialist | Data Science Enthusiast",
     "image": "/me.webp",
     "email": "rodrigosabinoramirez@gmail.com",
     "phone": "+51 981273313",
     "url": "https://",
-    "summary": "",
+    "summary": "Estudiante de 9no ciclo de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, con sólidos conocimientos en front-end (HTML, CSS, JavaScript, React JS, Angular) y experiencia en el desarrollo de aplicaciones móviles (Flutter, Kotlin). En el backend, manejo programación orientada a objetos con Node.js y Java, además de frameworks como Spring Boot y uso de SQL para consultas de bases de datos. Familiarizado con API REST y conocimientos básicos de Docker. Autodidacta, con habilidades para resolver problemas, comunicación efectiva y trabajo en equipo. ",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Callao",
+      "city": "Callao, Callao",
       "countryCode": "",
-      "region": "Callao"
+      "region": "Perú"
     },
     "profiles": [
       {
@@ -63,6 +63,12 @@
       ""
     ]
   }],
+  "awards": [{
+    "title": "Beca 18",
+    "date": "2020-03-15",
+    "awarder": "Programa Nacional de Becas y Crédito Educativo | PRONABEC",
+    "summary": "Programa Nacional de Becas y Crédito Educativo | PRONABEC"
+  }],
   "certificates": [{
     "name": "Certificate",
     "date": "2021-11-07",
@@ -79,81 +85,138 @@
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Middle",
       "keywords": [
         "Web development", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Middle",
       "keywords": [
         "Web development", "Frontend", "Diseño Responsive"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
+      "level": "Middle",
       "keywords": [
         "Web development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
-      "name": "Tailwind",
-      "level": "Advanced",
+      "name": "Java Spring Boot",
+      "level": "Middle",
       "keywords": [
         "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
       ]
     },
     {
       "name": "TypeScript",
-      "level": "Advanced",
+      "level": "Middle",
       "keywords": [
         "Web development", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
-      "level": "Advanced",
+      "level": "Middle",
       "keywords": [
         "Web development", "Backend", "JavaScript", "Servidor"
       ]
     },
     {
       "name": "MySQL",
-      "level": "Advanced",
+      "level": "Middle",
       "keywords": [
         "Bases de Datos", "SQL", "Database", "Backend"
       ]
     },
     {
       "name": "Git",
-      "level": "Advanced",
+      "level": "Basic",
       "keywords": [
         "Version control", "Colaboración", "Source code"
       ]
     },
     {
       "name": "GitHub",
-      "level": "Advanced",
+      "level": "Middle",
       "keywords": [
         "Version control", "Collaboration", "Source code", "Git"
       ]
     },
     {
       "name": "Next.js",
-      "level": "Advanced",
+      "level": "Basic",
       "keywords": [
         "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
       ]
     },
     {
       "name": "React",
-      "level": "Advanced",
+      "level": "Basic",
       "keywords": [
         "Web development", "Frontend", "JavaScript Library", "UI"
       ]
     }
+    ,
+    {
+      "name": "AngularJS",
+      "level": "Middle",
+      "keywords": [
+        "Web development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "VueJS",
+      "level": "Middle",
+      "keywords": [
+        "Web development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Middle",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Flutter",
+      "level": "Middle",
+      "keywords": [
+        "Mobile development", "Android", "UI"
+      ]
+    },
+    {
+      "name": "Kotlin",
+      "level": "Middle",
+      "keywords": [
+        "Mobile development", "Android", "UI"
+      ]
+    },
+    {
+      "name": "Postman",
+      "level": "Middle",
+      "keywords": [
+        "Testing", "Backend", "API"
+      ]
+    },
+    {
+      "name": "Figma",
+      "level": "Middle",
+      "keywords": [
+        "Testing", "Backend", "API"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Middle",
+      "keywords": [
+        "Testing", "Backend", "API"
+      ]
+    }
+
   ],
   "languages": [
     {
@@ -167,14 +230,51 @@
   ],
   "projects": [
     {
-      "name": "",
+      "name": "FastPorte",
       "isActive": true,
-      "description": "",
+      "description": "Plataforma web para servicios de transporte.",
       "highlights": [
-        "",
-        ""
+        "Angular JS",
+        "Java SpringBoot",
+        "Kotlin",
+        "MySQL"
       ],
-      "url": ""
+      "url": "https://github.com/orgs/Tech-Company-SW52/repositories",
+      "github": "https://github.com/orgs/Tech-Company-SW52/repositories"
+    },
+    {
+      "name": "TakeMeHome",
+      "isActive": false,
+      "description": "Plataforma web para envio de encomiendas",
+      "highlights": [
+        "Vue JS",
+        "ASP.NET",
+        "MySQL"
+      ],
+      "url": "https://github.com/orgs/TakeMeHome-Del-mundo-a-tus-manos/repositories",
+      "github": "https://github.com/orgs/TakeMeHome-Del-mundo-a-tus-manos/repositories"
+    },
+    {
+      "name": "Profile+",
+      "isActive": true,
+      "description": "Plataforma web para encontrar Programadores",
+      "highlights": [
+        "Angular JS",
+        "Java SpringBoot",
+        "MySQL"
+      ],
+      "url": "https://github.com/orgs/Diseno-de-experimentos-upc/repositories",
+      "github": "https://github.com/orgs/Diseno-de-experimentos-upc/repositories"
+    },
+    {
+      "name": "Machipet",
+      "isActive": false,
+      "description": "Aplicacion mobil para adopcion de mascotas",
+      "highlights": [
+        "Flutter"
+      ],
+      "url": "https://github.com/orgs/Matchipet/repositories",
+      "github": "https://github.com/orgs/Matchipet/repositories"
     }
   ]
 }
