@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Rodrigo Alexander Sabino Ramirez",
-    "label": "Software Engineering Student | Full-Stack Developer | QA Specialist | Data Science Enthusiast",
+    "label": "Software Engineering Student | Full-Stack Developer | QA | Data Science Enthusiast",
     "image": "/me.webp",
     "email": "rodrigosabinoramirez@gmail.com",
     "phone": "+51 981273313",
-    "url": "https://",
+    "url": "https://rodrigo-sabino.netlify.app/",
     "summary": "Estudiante de 9no ciclo de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, con sólidos conocimientos en front-end (HTML, CSS, JavaScript, React JS, Angular) y experiencia en el desarrollo de aplicaciones móviles (Flutter, Kotlin). En el backend, manejo programación orientada a objetos con Node.js y Java, además de frameworks como Spring Boot y uso de SQL para consultas de bases de datos. Familiarizado con API REST y conocimientos básicos de Docker. Autodidacta, con habilidades para resolver problemas, comunicación efectiva y trabajo en equipo. ",
     "location": {
       "address": "",
